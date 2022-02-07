@@ -50,3 +50,4 @@ While also technically being a Quantifier, bracket expressions can also be used 
 Sloan is a Fullstack Web Developer based in Michigan. 
 Github: https://github.com/sloansta
 Website: https://sloansta.github.io/sloan-page/
+Link to Gist: https://gist.github.com/Sloansta/c363cb3a02cb340b12a028cf893734f7
